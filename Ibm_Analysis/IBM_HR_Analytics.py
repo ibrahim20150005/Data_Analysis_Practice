@@ -134,5 +134,6 @@ plt.show()
 #Give a bar chart for the number of married and unmarried employees
 xaxis= dataframe.groupby('MaritalStatus').size().index
 yaxis=dataframe.groupby('MaritalStatus').size().values
+plt.title("a bar chart for the number of married and unmarried employees")
 plt.bar(xaxis,yaxis,width=0.3,color="#4CAF50",alpha=.9)
 plt.show()
