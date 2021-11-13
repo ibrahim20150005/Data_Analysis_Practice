@@ -1,0 +1,5 @@
+![correlation between displacement and combined mpg](https://user-images.githubusercontent.com/26661823/141603131-c4fd1851-17f8-466b-8048-f52a0913720c.png)
+![greenhouse gas score](https://user-images.githubusercontent.com/26661823/141603132-90bbf0d7-8ec3-4e82-9f12-15bead17f108.png)
+![Improvements in Fuel Economy](https://user-images.githubusercontent.com/26661823/141603133-f931bc95-6242-43f2-a744-c406f71eb08c.png)
+![unique models using alternative fuels](https://user-images.githubusercontent.com/26661823/141603134-9d81b7f0-b0d7-4a2c-bbfd-c8fd8ca88922.png)
+![combined mpg](https://user-images.githubusercontent.com/26661823/141603136-b1a3d8c3-7f29-4dd1-b136-5e3b9d78f1f8.png)
